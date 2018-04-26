@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920px"
+   height="1080px"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="pink.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="771.42857"
+     inkscape:cy="540"
+     inkscape:document-units="px"
+     inkscape:current-layer="SVGRoot"
+     showgrid="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-nodes="false"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid6455" />
+  </sodipodi:namedview>
+  <defs
+     id="defs5858" />
+  <metadata
+     id="metadata5861">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Layer 1" />
+  <path
+     style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.2596339;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+     d="M 996.87765,157.20885 864.82138,427.944 594.08618,560.00034 864.82138,692.05668 996.87765,962.79183 1128.934,692.05668 1399.6691,560.00034 1128.934,427.944 Z m -259.12933,137.41749 45.88552,133.2707 58.73563,-28.64962 28.64957,-58.73558 z m 524.50338,0 -133.2708,45.8855 28.6497,58.73558 58.7355,28.64962 z M 996.87765,485.07039 a 74.929042,74.929042 0 0 1 74.93005,74.92995 74.929042,74.929042 0 0 1 -74.93005,74.92782 74.929042,74.929042 0 0 1 -74.92781,-74.92782 74.929042,74.929042 0 0 1 74.92781,-74.92995 z M 783.63384,685.85894 737.74832,819.12965 871.01904,773.24414 842.36947,714.50857 Z m 432.73226,0 -58.7355,28.64963 -28.6497,58.73557 133.2708,45.88551 z"
+     id="path6500"
+     inkscape:connector-curvature="0" />
+  <circle
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:41.29947281;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+     id="path6521"
+     cx="1000"
+     cy="560"
+     r="471.42856" />
+</svg>
