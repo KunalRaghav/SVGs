@@ -2,7 +2,7 @@
 
 This folder contains amateur vector reconstructions of all symbols on **rings of power** used in the **_Green Lantern Universe_**.
 
-_These were made during my obession with [Green Lantern:The Animated series](https://en.wikipedia.org/wiki/Green_Lantern:_The_Animated_Series)_
+_These were made during my obession with [Green Lantern: The Animated series](https://en.wikipedia.org/wiki/Green_Lantern:_The_Animated_Series)_
 
 ---
 
